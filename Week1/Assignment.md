@@ -7,7 +7,7 @@
 
 ## Learning Task (Bonus)
 * Learning about features and labels.
-* Plot different functions (x^2, x^3, sin(x), etc.)
+* Plot different functions (x^2^, x^3^, sin(x), etc.)
 * Plot shapes (rectangle, square, circle)
 * Explore if we can plot in 3D
 * CSV file  
